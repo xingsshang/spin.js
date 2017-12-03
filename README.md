@@ -2,11 +2,11 @@
 
 An animated loading spinner
 
- * No images, no external CSS
+ * No images
  * No dependencies
  * Highly configurable
  * Resolution independent
- * Uses `requestAnimationFrame()`, falling back to `setTimeout()` in IE 9
+ * Uses CSS keyframe animations
  * Works in all major browsers
  * Includes TypeScript definitions
  * MIT License
